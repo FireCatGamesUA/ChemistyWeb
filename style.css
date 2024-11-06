@@ -18,6 +18,10 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-attachment: fixed;
+    background-image: url(./images/02.png);
+    background-position: center;
+    background-size: cover;
 }
 .o222{
     font-size: 5em;
