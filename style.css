@@ -13,10 +13,6 @@ body{
     grid-template-rows: 100vh 875vh 25vh;
 }
 header{
-    background-attachment: fixed;
-    background-image: url("images\oxygen-molecule.png");
-    background-position: center;
-    background-size: cover;
     height: 100vh;
     width: 100vw;
     display: flex;
