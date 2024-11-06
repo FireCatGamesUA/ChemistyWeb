@@ -146,8 +146,9 @@ i:hover{
     transition: 0.9s;
 }
 .topImg{
-    position: relative;
-    z-index: 1;
+    position: absolute;
+    z-index: -10;
     width: 100vw;
     height: 100vh;
+    background-size: auto;
 }
