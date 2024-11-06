@@ -14,7 +14,7 @@ body{
 }
 header{
     background-attachment: fixed;
-    background-image: url(./images/02.png);
+    background-image: url('./images/02.png');
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -124,7 +124,7 @@ main{
 }
 footer{
     background-attachment: fixed;
-    background-image: url(./images/02.png);
+    background-image: url('./images/02.png');
     background-position: center;
     background-size: cover;
     display: flex;
