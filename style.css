@@ -145,10 +145,3 @@ i:hover{
     color: rgb(0, 71, 152);
     transition: 0.9s;
 }
-.topImg{
-    position: absolute;
-    z-index: -10;
-    width: 100vw;
-    height: 100vh;
-    background-size: auto;
-}
